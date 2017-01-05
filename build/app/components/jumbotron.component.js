@@ -12,7 +12,7 @@ var core_1 = require("@angular/core");
 var JumbotronComponent = (function () {
     function JumbotronComponent() {
         this.jbtHeading = "Hello World";
-        this.jbtText = "\n                             This is a tempalte for a simple angular 2 structure that can be easily develop/build on the go.\n                             Angular 2 as of now, do not have a complete and concrete structure.\n                             This is why I build this and called it skeleton, for free to use application to get started to build.\n                             ";
+        this.jbtText = "\n                             A github webpage just for kicks and giggles.\n                             No need to get serious right here.\n                             This is just to display projects and what not.\n                             ";
         this.jbtBtnText = "Read More";
         this.jbtBtnUrl = "/about";
     }

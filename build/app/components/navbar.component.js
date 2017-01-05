@@ -11,7 +11,7 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 var core_1 = require("@angular/core");
 var NavbarComponent = (function () {
     function NavbarComponent() {
-        this.branding = 'Skeleton';
+        this.branding = 'A webpage for github';
     }
     return NavbarComponent;
 }());
